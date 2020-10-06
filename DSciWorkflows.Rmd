@@ -34,13 +34,20 @@ Jupyter Docker Stacks: [https://github.com/jupyter/docker-stacks](https://github
 
 The tuorial content is based on [RSpark Tutorial](https://github.com/jharner/rspark-tutorial)
 
+Note: a number of the sections will only be partially covered.
+
 * Session 1:  
-  + Module 1  
-  + Module 2  
+  + Module 1 Fundamentals: s1 workflows; s3 linux; s4 git; s5 data structure; s6 functions; s7 intro machine learning (ml)    
+  + Module 2: s1 text; s5 databases s7 excel 
 
 * Session 2:
+  + Module 3:
+  + Module 4:
+  + Module 5:
 
 * session 3:
+  + Module 6:
+  + Module 7:
 
 ## DevOps for Data Science
 
