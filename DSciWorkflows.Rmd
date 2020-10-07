@@ -57,7 +57,7 @@ Data Science Platforms are complex! How do we solve the data analysis issues of:
 * scalability, and  
 * reproducibility.  
 
-DevOps (development + operations) has been revolutionized by containers and methods of orchestrating containers. Specifically, we will examine two technologies which are changing how complex software systems are built, deployed, and maintained. These are:  
+DevOps (development + operations) has been revolutionized by containers and methods of orchestrating containers. Specifically, two technologies are changing how complex software systems are built, deployed, and maintained. These are:  
 
 * [Docker](https://www.docker.com): a technology for building, deploying, and running container images;  
 * [Kubernetes](https://kubernetes.io): a technology for deploying, scaling, and managing containerized applications. 
