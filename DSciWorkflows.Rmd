@@ -1,5 +1,5 @@
 ---
-title: "Data Science Workflows"
+title: "EDSB: Data Science Workflows"
 author: "Jim Harner, West Virginia University"
 date: "Oct. 7,  2020"
 output:
@@ -11,11 +11,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Important links
+NISS's Essential Data Science for Business:
+[https://www.niss.org/events/essential-data-science-business-data-science-workflows](https://www.niss.org/events/essential-data-science-business-data-science-workflows)
 
 The tutorial content:  
 RSpark Tutorial: [https://github.com/jharner/rspark-tutorial](https://github.com/jharner/rspark-tutorial)
 
-The RSpark developmentenvironment:  
+The RSpark development environment:  
 RSpark: [https://github.com/jharner/rspark](https://github.com/jharner/rspark)
 
 A user environment pulled from Docker Hub:  
@@ -35,12 +37,12 @@ Jupyter Docker Stacks: [https://github.com/jupyter/docker-stacks](https://github
 The tutorial content is based on [RSpark Tutorial](https://github.com/jharner/rspark-tutorial)
 
 * Session 1:  
-  + Module 1 Fundamentals: s1 workflows; s3 linux; s5 data structure; s6 functions; s7 intro machine learning (ml)    
+  + Module 1 Fundamentals: s1 workflows; s5 data structure; s6 functions; s7 intro machine learning (ml)    
   + Module 2 Data sources: s1 text; s5 databases s7 excel, dates
 
 * Session 2:
   + Module 3 Transformations: s1 data manipulation; s2 dplyr backends; s3 data cleaning
-  + Module 4 Hadoop: s1 hadoop; s3: hdfs; s5: mapreduce 
+  + Module 4 Hadoop: s1 hadoop; s3: hdfs 
   + Module 5 Spark: s1 basics; s2 spark dplyr; s3 spark sql
 
 * session 3:
