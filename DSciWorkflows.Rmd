@@ -21,16 +21,16 @@ The RSpark development environment:
 RSpark: [https://github.com/jharner/rspark](https://github.com/jharner/rspark)
 
 A user environment pulled from Docker Hub:  
-RSpark Docker: [https://github.com/jharner/rsparkdocker](https://github.com/jharner/rsparkdocker)
+RSpark Docker: [https://github.com/jharner/rspark-docker](https://github.com/jharner/rspark-docker)
 
 A user environment pulled from Vagrant Cloud:  
-RSpark Vagrant: [https://github.com/jharner/rspark-vagrant](https://github.com/jharner/rsparkdocker)
+RSpark Vagrant: [https://github.com/jharner/rspark-vagrant](https://github.com/jharner/rspark-vagrant)
+
+A user environment based on Amazon Web Services:  
+AMS: [https://aws.amazon.com](https://aws.amazon.com) 
 
 R, Shiny, etc. environments:  
 Rocker Project: [https://www.rocker-project.org](https://www.rocker-project.org)
-
-Jupyter environments:
-Jupyter Docker Stacks: [https://github.com/jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) 
 
 ## Tutorial Outline
 
